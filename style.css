@@ -1,0 +1,79 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: grey;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+#button {
+  color:purple;
+  width: 70px;
+  height: 30px;
+  margin-left: 1em;
+  border-radius: 10px;
+}
+
+.buttons {
+  margin-top: 2em;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.buttons > button {
+  margin: 1em;
+  min-width: 100px;
+  min-height: 100px;
+  max-width: 100px;
+  max-height: 100px;
+  border-radius: 10px;
+  flex-basis: 50%;
+}
+
+#button1 {
+  background-color: pink;
+}
+#button1:active, #button1.lit{
+  background-color: red;
+}
+
+#button2 {
+  background-color: AliceBlue;
+}
+#button2:active, #button2.lit {
+  background-color: blue;
+}
+
+#button3 {
+  background-color: DarkSeaGreen;
+}
+#button3:active, #button3.lit {
+  background-color: DarkGreen;
+}
+
+#button4 {
+  background-color: Violet;
+}
+#button4:active, #button4.lit {
+  background-color: RebeccaPurple;
+}
