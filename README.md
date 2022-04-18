@@ -69,14 +69,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    So far, my web development experience has been mainly on the front-end. I have developed my personal website and am currently working
    towards developing the website within a team for the Big Data Big Impact student organization at Georgia Tech. These experiences have
    helped me gain more comfort in programming in HTML, CSS, Javascript, React.js, Tailwind CSS, and Bootstrap. I also have some experience
-   with Flask for back-end development via hackathon involvments. However, what I hope to learn is Full Stack Development, where I can
+   with Flask for back-end development via hackathon involvments. However, what I hope to delve further into is Full Stack Development, where I can
    bridge the two - front-end and back-end - together to create a complete, unique project. This is what I have most questions about. There
-   are so many frameworks and tools for handling front-end and back-end tasks - are there heuristics for choosing certain ones over others? How
-   do I evaluate a framework compared to others? It gets confusing for me at times, because there is so much to choose from. Svelte or React?
-   How does Next.js fit into the scenario? What about Nest.js vs. Express.js for the back-end? Maybe I can't compare these frameworks head on, and
-   maybe they could be used in tandem. This is where I currently don't know enough to fully understand the space, but I get very excited at this topic,
-   as there is so much for me to learn, and I know that
-   I am making slow but steady steps towards obtaining a greater understanding of Full Stack Development. I am thinking of project ideas, reading
+   are many frameworks and tools for handling front-end and back-end tasks - are there heuristics for choosing certain ones over others? Sometimes, it is slightly confusing,
+   because there are several options to choose from. Svelte or React?
+   How does Next.js fit into the scenario? What about Nest.js vs. Express.js for the back-end? I am currently working on learning some of these frameworks and it is
+   exciting for me, as I love learning new topics and figuring out the answers to some of these questions.
+   With slow but steady steps towards obtaining a greater understanding of Full Stack Development, I am thinking of project ideas, reading
    documentation, and seeing examples of various frameworks used to get a better idea of what I could use in my potential projects.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
