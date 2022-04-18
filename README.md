@@ -66,7 +66,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
 
-   So far, my web development experience has been mainly on the front-end. I have developed my personal website and am currently working
+   So far, my web development experience has been mainly on the front-end. I have developed my personal [website](https://asattiraju13.github.io/) and am currently working
    towards developing the website within a team for the Big Data Big Impact student organization at Georgia Tech. These experiences have
    helped me gain more comfort in programming in HTML, CSS, Javascript, React.js, Tailwind CSS, and Bootstrap. I also have some experience
    with Flask for back-end development via hackathon involvments. However, what I hope to delve further into is Full Stack Development, where I can
